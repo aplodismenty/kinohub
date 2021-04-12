@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yohoho.cc/sitemap.xml
+Sitemap: https://kinohub.cf/sitemap.xml
